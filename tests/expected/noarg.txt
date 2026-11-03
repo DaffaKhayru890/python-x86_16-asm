@@ -1,0 +1,6 @@
+TinyPrint16 -- direct-threaded Python interpreter
+TinyPrint16: error print needs a string literal
+ at line 1
+, column 7
+print()
+      ^

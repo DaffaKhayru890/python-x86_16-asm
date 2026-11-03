@@ -1,0 +1,6 @@
+TinyPrint16 -- direct-threaded Python interpreter
+TinyPrint16: error unexpected text after the closing parenthesis
+ at line 1
+, column 12
+print("one") 
+           ^

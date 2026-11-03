@@ -1,0 +1,4 @@
+TinyPrint16 -- direct-threaded Python interpreter
+Price: $100
+Quoted: "Hi"
+Mixed Case ok

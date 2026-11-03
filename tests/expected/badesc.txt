@@ -1,0 +1,6 @@
+TinyPrint16 -- direct-threaded Python interpreter
+TinyPrint16: error unsupported escape sequence, only \" and \\ are allowed
+ at line 1
+, column 7
+print("bad \
+      ^

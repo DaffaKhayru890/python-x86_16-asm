@@ -1,0 +1,3 @@
+TinyPrint16 -- direct-threaded Python interpreter
+TinyPrint16 needs a source file.
+usage: tinyprint16.com <file.py>

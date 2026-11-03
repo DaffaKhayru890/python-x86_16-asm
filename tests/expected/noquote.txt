@@ -1,0 +1,6 @@
+TinyPrint16 -- direct-threaded Python interpreter
+TinyPrint16: error string literal is not closed
+ at line 1
+, column 7
+print("never closed
+      ^

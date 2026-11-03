@@ -1,0 +1,6 @@
+TinyPrint16 -- direct-threaded Python interpreter
+TinyPrint16: error unexpected character
+ at line 1
+, column 1
+
+^

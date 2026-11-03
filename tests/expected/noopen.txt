@@ -1,0 +1,6 @@
+TinyPrint16 -- direct-threaded Python interpreter
+TinyPrint16: error missing ( after print
+ at line 1
+, column 7
+print "no opening paren"
+      ^

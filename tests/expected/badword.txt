@@ -1,0 +1,6 @@
+TinyPrint16 -- direct-threaded Python interpreter
+TinyPrint16: error expected the print keyword
+ at line 1
+, column 1
+puts
+^

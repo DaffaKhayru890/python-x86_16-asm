@@ -1,0 +1,3 @@
+TinyPrint16 -- direct-threaded Python interpreter
+TinyPrint16: error cannot open source file
+dos error 0002
